@@ -20,7 +20,7 @@ Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router
 
 ## Screenhot <a id="screenshot"></a>
 
-
+![image](./public/background.jpg)
 
 ## Technolgies <a id="technolgies"></a>
 
